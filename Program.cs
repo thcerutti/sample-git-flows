@@ -2,7 +2,7 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine($"Sum sample: {Sum(1, 2)}");
-Console.WriteLine($"Divide sample: {Sum(1, 2)}");
+Console.WriteLine($"Divide sample: {Divide(1, 2)}");
 Console.WriteLine($"Multiply sample: {Multiply(1, 2)}");
 Console.WriteLine($"Subtract sample: {Subtract(1, 2)}");
 
