@@ -2,7 +2,7 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine($"Sum sample: {Sum(1, 2)}");
-Console.WriteLine($"Sum sample: {Subtract(1, 2)}");
+Console.WriteLine($"Subtract sample: {Subtract(1, 2)}");
 
 static int Sum(int a, int b)
 {
