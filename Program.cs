@@ -20,5 +20,5 @@ static int Multiply(int a, int b)
 
 static decimal Divide(int a, int b)
 {
-    throw new NotImplementedException();
+    return a / b;
 }
